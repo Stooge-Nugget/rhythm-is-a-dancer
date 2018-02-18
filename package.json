@@ -1,0 +1,17 @@
+{
+  "name": "rhythm-is-a-dancer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Choc-Orange@bitbucket.org/Choc-Orange/rhythm-is-a-dancer.git"
+  },
+  "author": "Alex Genovese",
+  "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://bitbucket.org/Choc-Orange/rhythm-is-a-dancer#readme"
+}
