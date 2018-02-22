@@ -12,7 +12,7 @@ dist
 
 ### Devtool
 
-inline-source-map: 
+inline-source-map:  
 Map compiled code back to original source, for easier debugging.
 
 
