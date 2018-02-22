@@ -3,22 +3,22 @@
 My webpack boilder plate for new projects.
 
 
-## Output
+### Output
 
-dist
-|- bundle.js
+dist  
+|- bundle.js  
 |- index.html
 
 
-## Devtool
+### Devtool
 
 inline-source-map: 
 Map compiled code back to original source, for easier debugging.
 
 
-# Webpack Plugins
+## Webpack Plugins
 
-## HtmlWebpackPlugin
+### HtmlWebpackPlugin
 
 HTML file generation to serve webpack bundles
 
@@ -28,7 +28,7 @@ HTML file generation to serve webpack bundles
 [Github](https://github.com/jantimon/html-webpack-plugin)
 
 
-## CleanWebpackPlugin
+### CleanWebpackPlugin
 
 Removes/Cleans build folder ready for the next build
 
