@@ -20,9 +20,8 @@ Map compiled code back to original source, for easier debugging.
 
 ### HtmlWebpackPlugin
 
-HTML file generation to serve webpack bundles
-
-*Can be generated using template.
+HTML file generation to serve webpack bundles  
+*Can be generated using template.*
 
 [Reference](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin)  
 [Github](https://github.com/jantimon/html-webpack-plugin)
