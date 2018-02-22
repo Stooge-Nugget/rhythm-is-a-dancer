@@ -24,7 +24,7 @@ HTML file generation to serve webpack bundles
 
 *Can be generated using template.
 
-[Reference](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin)
+[Reference](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin)  
 [Github](https://github.com/jantimon/html-webpack-plugin)
 
 
@@ -32,5 +32,5 @@ HTML file generation to serve webpack bundles
 
 Removes/Cleans build folder ready for the next build
 
-[Reference](https://webpack.js.org/guides/output-management/#cleaning-up-the-dist-folder)
+[Reference](https://webpack.js.org/guides/output-management/#cleaning-up-the-dist-folder)  
 [Github](https://github.com/johnagan/clean-webpack-plugin)
